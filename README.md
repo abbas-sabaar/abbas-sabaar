@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abbas-sabaar
-- 👀 I’m interested in ... Developing for Mobile 
+- 👀 I’m interested in ...  Software Developer Applications
 - 🌱 I’m currently learning ... Flutter Dart 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
